@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Birthday</string>
+    <string name="name">Name</string>
+    <string name="msg">Message</string>
+    <string name="pkg">"android.resource://com.example.abhishek.birthday/"</string>
+</resources>
